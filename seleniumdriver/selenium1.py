@@ -3,9 +3,9 @@ import time
 from selenium import  webdriver
 
 
-driver=webdriver.Firefox()   #火狐浏览器
+#driver=webdriver.Firefox()   #火狐浏览器
 #firefox=webdriver.Ie()  IE浏览器
-#driver=webdriver.Chrome()   谷歌浏览器
+driver=webdriver.Chrome()   #谷歌浏览器
 
 url='http://www.baidu.com'
 driver.get(url)

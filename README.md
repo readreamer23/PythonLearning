@@ -16,3 +16,4 @@ pip install -r  requirements.txt
 2. 运行seleniumdriver包下的脚本需安装各浏览器的驱动插件包
 
 火狐firefox 驱动包下载地址:  https://github.com/mozilla/geckodriver/releases
+较老版本firefox: https://ftp.mozilla.org/pub/firefox/releases/
